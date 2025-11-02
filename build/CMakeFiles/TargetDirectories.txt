@@ -1,0 +1,3 @@
+/home/altushkaso2/debugreport_detector/DebugReportChecker/build/CMakeFiles/ReportChecker.dir
+/home/altushkaso2/debugreport_detector/DebugReportChecker/build/CMakeFiles/edit_cache.dir
+/home/altushkaso2/debugreport_detector/DebugReportChecker/build/CMakeFiles/rebuild_cache.dir
